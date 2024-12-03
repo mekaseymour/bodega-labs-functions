@@ -1,2 +1,3 @@
 [build]
 functions = "functions" # Directory for serverless functions
+node_version = "22"
